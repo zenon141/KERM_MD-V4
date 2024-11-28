@@ -13,16 +13,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *SILENTLOVER432*
+*|* *KG TECH 237*
 
-> *SILENT-SOBX-MD REPO:*
-*|* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+> *Kᴇʀᴍ Mᴅ V4 Rᴇᴘᴏ:*
+*|* *https://github.com/Kgtech-cmr/KERM_MD-V4*
 
 > *SUPPORT GROUP:*
-*|* *https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
+*|* *https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45*
 *╰──────────────●●►*
 
-> *CREATED BY SILENTLOVER432*
+> *CREATED BY KG TECH🇨🇲*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -31,16 +31,16 @@ await conn.sendMessage(from, { text: repo ,
     forwardingScore: 999,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "SILENTLOVER432",
+      newsletterJid: '120363321386877609@newsletter',
+      newsletterName: "ᴋᴇʀᴍ ᴄʜᴀɴɴᴇʟ",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: 'SILENT-SOBX-MD',
+title: 'KERM_MD-V4',
 body: `${pushname}`,
 mediaType: 1,
-sourceUrl: "https://github.com/SILENTLOVER40/SILENT-SOBX-MD" ,
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg" ,
+sourceUrl: "https://github.com/Kgtech-cmr/KERM_MD-V4" ,
+thumbnailUrl: "https://pomf2.lain.la/f/cdn0360.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
