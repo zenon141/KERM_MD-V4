@@ -3,7 +3,7 @@ const config = require('../config');
 const { cmd, commands } = require('../command');
 
 cmd({
-    pattern: "githubstalk",
+    pattern: "github",
     desc: "Fetch detailed GitHub user profile including profile picture.",
     category: "other",
     react: "📚",
