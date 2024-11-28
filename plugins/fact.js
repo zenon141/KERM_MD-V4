@@ -15,7 +15,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const fact = response.data.text;
 
         const funFact = `
-👾 *SILENT-SOBX-MD RANDOM FACT* 👾
+👾 *Kᴇʀᴍ Mᴅ V4 Rᴀɴᴅᴏᴍ Fᴀᴄᴛ* 👾
 
 ${fact}
 
@@ -45,7 +45,7 @@ async (conn, mek, m, { from, q, reply }) => {
 😂 *Here's a random joke for you!* 😂
 *${joke.setup}*
 ${joke.punchline} 😄
-> *POWERED BY SILENTLOVER432*
+> *POWERED BY KG TECH*
 `;
         return reply(jokeMessage);
     } catch (e) {
