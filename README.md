@@ -12,11 +12,6 @@
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`KERM+-+MD+-+V4+WHATSAPP+BOT`" alt="">
 
-------------
-
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SILENT%20LOVER%20432%20KING%20OF%20KINGS%20OWNER%20SILENT%20LOVER%20AND%20SOBIA%20BUTT♥️&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=SILENTLOVER4&pattern=leaf&colorPattern=%23eaeaea"/>
-
 <br>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
@@ -26,11 +21,11 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 --------
 
 <p align="center">
-<a href="https://github.com/SILENTLOVER40/"><img title="Followers" src="https://img.shields.io/github/followers/SILENTLOVER40?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Kgtech-cmr/"><img title="Followers" src="https://img.shields.io/github/followers/Kgtech-cmr?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM_MD-V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM_MD-V4?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/"><img title="Size" src="https://img.shields.io/github/repo-size/Kgtech-cmr/KERM_MD-V4?style=flat-square&color=blue"></a>
+<a href="https://github.com/Kgtech-cmr/KERM_MD-V4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -38,7 +33,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SILENT-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>KERM_MD-V4</div>
 
 ------------
 
