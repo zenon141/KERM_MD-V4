@@ -14,7 +14,7 @@ cmd({
 async (conn, mek, m, { from, q, reply }) => {
     try {
         const args = q.split(' ');
-        if (args.length < 2) return reply("❗ Please provide a language code and text. Usage: .translate [language code] [text]");
+        if (args.length < 2) return reply("❗ Please provide a language code and text. Usage: .translate [language code] [text]\n eg: trt fr Hi");
 
         const targetLang = args[0];
         const textToTranslate = args.slice(1).join(' ');
@@ -25,7 +25,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const translation = response.data.responseData.translatedText;
 
         const translationMessage = `
-🌍 *SILENT-SOBX-MD TRANSLATION* 🌍
+🌍 *KERM MD V4 TRANSLATION* 🌍
 
 🔤 *Original*: ${textToTranslate}
 
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, q, reply }) => {
 
 🌐 *Language*: ${targetLang.toUpperCase()}
 
-*SILENT-SOBX-MD CREATION*`;
+*KERM MD V4 CREATION*`;
 
         return reply(translationMessage);
     } catch (e) {
@@ -54,7 +54,7 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 if(!q) return reply("Need some text.")
     const url = googleTTS.getAudioUrl(q, {
-  lang: 'hi-IN',
+  lang: 'en-fr',
   slow: false,
   host: 'https://translate.google.com',
 })
