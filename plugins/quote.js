@@ -15,11 +15,11 @@ async (conn, mek, m, { from, reply }) => {
         const message = `
 💬 "${quote.content}"
 - ${quote.author}
-*QUOTES BY SILENTLOVER432*
+*QUOTES BY KG TECH🇨🇲*
         `;
         return reply(message);
     } catch (e) {
         console.error("Error fetching quote:", e);
-        reply("¢συℓ∂ ησт ƒєт¢н α qυσтє. ρℓєαѕє тяу αgαιη ℓαтєя.");
+        reply("Could not fetc a quote. please try again later.");
     }
 });
