@@ -4,7 +4,7 @@ const { cmd, commands } = require('../command')
 cmd({
     pattern: "kickall",
     desc: "Kicks all non-admin members from the group.",
-    react: "👏",
+    react: "🧨",
     category: "group",
     filename: __filename,
 },           
