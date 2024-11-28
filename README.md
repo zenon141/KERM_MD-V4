@@ -71,7 +71,7 @@ jobs:
       run: npm start
 ```
 
-[![FORK KERM_MD-V4](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/Kgtech-cmr/KERM_MD-V4/fork)
+[![FORK KERM_MD-V4](https://img.shields.io/badge/FORK%20-KERM%20MDX%20V4-white)](https://github.com/Kgtech-cmr/KERM_MD-V4/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
