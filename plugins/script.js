@@ -13,16 +13,16 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *KG TECH 237*
+*|* *Kg Tech*
 
-> *Kᴇʀᴍ Mᴅ V4 Rᴇᴘᴏ:*
+> *KERM_MD-V4 REPO:*
 *|* *https://github.com/Kgtech-cmr/KERM_MD-V4*
 
-> *SUPPORT GROUP:*
+> *SUPPORT CHANNEL:*
 *|* *https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45*
 *╰──────────────●●►*
 
-> *CREATED BY KG TECH🇨🇲*
+> *CREATED BY KG TECH*
 `
 await conn.sendMessage(from, { text: repo ,
   contextInfo: {
@@ -32,7 +32,7 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363321386877609@newsletter',
-      newsletterName: "KERM CHANNEL",
+      newsletterName: "KᴇʀᴍCʜᴀɴɴᴇʟ",
       serverMessageId: 999
     },
 externalAdReply: { 
@@ -40,7 +40,7 @@ title: 'KERM_MD-V4',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/Kgtech-cmr/KERM_MD-V4" ,
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg" ,
+thumbnailUrl: "https://pomf2.lain.la/f/cdn0360.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
