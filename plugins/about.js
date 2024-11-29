@@ -9,6 +9,7 @@ contact dev2 237650564445 ♻️
 const {cmd , commands} = require('../command')
 cmd({
     pattern: "about",
+    alias: ["kgtech"],
     react: "👑",
     desc: "get owner dec",
     category: "main",
