@@ -32,7 +32,7 @@ await conn.sendMessage(from, { text: repo ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363321386877609@newsletter',
-      newsletterName: "ᴋᴇʀᴍ ᴄʜᴀɴɴᴇʟ",
+      newsletterName: "KERM CHANNEL",
       serverMessageId: 999
     },
 externalAdReply: { 
