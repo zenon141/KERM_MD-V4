@@ -40,7 +40,7 @@ title: 'KERM_MD-V4',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://github.com/Kgtech-cmr/KERM_MD-V4" ,
-thumbnailUrl: "https://pomf2.lain.la/f/cdn0360.jpg" ,
+thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg" ,
 renderLargerThumbnail: true,
 showAdAttribution: true
 }
