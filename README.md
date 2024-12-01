@@ -82,6 +82,9 @@ jobs:
 
 <p align="center">
 <a href="https://la-session-kerm-v4.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
+<p/>
+
+<p align="center">
 <a href="https://la-session-kerm-v4.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-black?style=for-the-badge&logo=render"></a>
 <p/>
 
